@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExFullStackAsp", "ExFullStackAsp\ExFullStackAsp.csproj", "{104EE6CE-A540-487D-9CE7-C1167E66DF3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dto", "Dto\Dto.csproj", "{450AE79E-3AA4-4075-8057-589B132B5CC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Front", "Front\Front.csproj", "{83D9964A-E709-46FA-8F12-94058AFF24C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{104EE6CE-A540-487D-9CE7-C1167E66DF3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{104EE6CE-A540-487D-9CE7-C1167E66DF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{104EE6CE-A540-487D-9CE7-C1167E66DF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{104EE6CE-A540-487D-9CE7-C1167E66DF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450AE79E-3AA4-4075-8057-589B132B5CC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450AE79E-3AA4-4075-8057-589B132B5CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450AE79E-3AA4-4075-8057-589B132B5CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450AE79E-3AA4-4075-8057-589B132B5CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D9964A-E709-46FA-8F12-94058AFF24C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D9964A-E709-46FA-8F12-94058AFF24C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D9964A-E709-46FA-8F12-94058AFF24C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D9964A-E709-46FA-8F12-94058AFF24C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {705BD490-097E-4F40-B4B1-DFE5BEC9141A}
+	EndGlobalSection
+EndGlobal
